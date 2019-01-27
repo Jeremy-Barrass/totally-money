@@ -1,0 +1,2 @@
+/home/jeremy/Dropbox/Github/totally-money/CustomerPreferences/CustomerPreferences/obj/x86/Debug/CustomerPreferences.csproj.CoreCompileInputs.cache
+/home/jeremy/Dropbox/Github/totally-money/CustomerPreferences/CustomerPreferences/obj/x86/Debug/CustomerPreferences.csprojAssemblyReference.cache

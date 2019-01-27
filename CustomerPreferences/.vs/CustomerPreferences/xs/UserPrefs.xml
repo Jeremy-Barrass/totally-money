@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{56896FB4-ACF9-405A-ACAA-9E62A908256E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CustomerPreferences/Startup.cs">
+    <Files>
+      <File FileName="CustomerPreferences.Test/CustomerPreferenceControllerTests.cs" Line="9" Column="18" />
+      <File FileName="CustomerPreferences/Controllers/CustomerPreferencesController.cs" Line="6" Column="42" NotebookId="1" />
+      <File FileName="CustomerPreferences/Interfaces/IReportHelper.cs" Line="8" Column="69" NotebookId="1" />
+      <File FileName="CustomerPreferences/Helpers/ReportHelper.cs" Line="3" Column="38" NotebookId="1" />
+      <File FileName="CustomerPreferences/Program.cs" Line="4" Column="1" NotebookId="1" />
+      <File FileName="CustomerPreferences/Startup.cs" Line="5" Column="28" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CustomerPreferences PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

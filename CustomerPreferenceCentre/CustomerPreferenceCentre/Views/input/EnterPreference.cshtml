@@ -1,0 +1,42 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Enter Preferences</title>
+</head>
+<body>
+        <h1>Enter Preferences</h1> 
+        <form action="/api/save" method="post">
+            <ul style="list-style-type: none">
+                <li>
+                    Name: <input type="text" value="Enter Name" name="Name"/>
+                </li>
+                <li>
+                    <p>Preference:</p> 
+                    <p>Never: <input type="radio" name="Never"/></p>
+                    <p>Everyday: <input type="radio" value="Everyday"/></p>
+                    <p>On the following days:</p>
+                    <ul style="list-style-type: none">
+                        <li><input type="checkbox" name="Monday">Monday</li>
+                        <li><input type="checkbox" name="Tuesday">Tuesday</li>
+                        <li><input type="checkbox" name="Wednesday">Wednesday</li>
+                        <li><input type="checkbox" name="Thursday">Thursday</li>
+                        <li><input type="checkbox" name="Friday">Friday</li>
+                        <li><input type="checkbox" name="Saturday">Saturday</li>
+                        <li><input type="checkbox" name="Sunday">Sunday</li>
+                    </ul>
+                    <p>On the following date:</p>
+                    <input type="date">
+                </li>
+                <li>
+                    <br/>
+                    <input type="submit" value="Save" name="Save"/>
+                </li>
+            </ul>
+        </form>
+</body>
+</html>
+
